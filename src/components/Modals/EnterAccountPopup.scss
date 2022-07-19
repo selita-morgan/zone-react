@@ -1,0 +1,45 @@
+// -----------------------      SIGN UP      --------------------------
+
+.form-dialog-title {
+  text-align: center;
+
+  a {
+    color: #ffffff;
+    text-decoration: none;
+  }
+
+  a:hover {
+    color: #3460e9;
+  }
+}
+
+.form-dialog-inputs {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+.form-dialog-log-in {
+  text-align: center;
+}
+
+.registration-button {
+  margin-left: 150px;
+  margin-top: 10px;
+  display: flex;
+  text-align: right;
+  color: #1a1a1a;
+  text-decoration: none;
+  font-family: "Droid Sans Mono", sans-serif;
+  font-weight: 600;
+  font-size: 13px;
+}
+
+.registration-button:hover {
+  color: #365de7;
+}
+
+.input-username-hidden {
+  height: 0px !important;
+  visibility: hidden;
+}

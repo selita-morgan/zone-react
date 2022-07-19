@@ -1,0 +1,175 @@
+{
+  "nav-menu":{
+    "nav1": "Haus",
+    "nav2": "Über uns",
+    "nav3": "StarWars",
+    "nav4": "Preisgestaltung",
+    "nav5": "Blog",
+    "nav6": "Anmelden"
+  },
+
+  "landing": {
+    "title": "Virtuelle Realität\nGeschäftslösungen",
+    "subtitle": "Wir haben über 15 Jahre Erfahrung in der Unternehmensberatung. Wir haben über\n15 jahre Erfahrung im Bereich Unternehmensberatung.",
+    "join-button": "Begleiten Sie uns",
+    "watch-button": "Video"
+  },
+
+  "email-form": {
+    "title": "Abonnieren Sie aktuelle Neuigkeiten",
+    "subtitle": "Wir empfehlen Ihnen, unsere Zeitung zu abonnieren, geben Sie unten Ihre E-Mail-Adresse ein, um täglich über uns informiert zu werden",
+    "email-area": "Geben Sie Ihre E-Mail-Adresse ein",
+    "email-submit": "E-Mail senden"
+  },
+
+  "features": {
+    "block-one": {
+      "title": "Wir führen alle Projekte durch\nextra Sorgfalt als Kundenbedarf",
+      "content": "Lorem ipsum Karotten, ökologische Tomatensuppe. Film aber es war ein Lächeln,\nnicht im Rampenlicht. Jede eingestellte Temperatur ist das Tal nuncoe\nschokolade rein. es gibt viele Gründe, warum unsere Kunden. Arbeit\nes ist nervig zu tun, Ich wurde geboren und unterwerfe es ihm, aber sie. Magfini,\nFehlermeldung."
+    },
+    "block-two": {
+      "title": "Wir führen alle Projekte durch\nextra Sorgfalt als Kundenbedarf",
+      "content": "Lorem ipsum Karotten, ökologische Tomatensuppe. Film aber es war ein Lächeln,\nnicht im Rampenlicht. Jede eingestellte Temperatur ist das Tal nuncoe\nschokolade rein. es gibt viele Gründe, warum unsere Kunden. Arbeit\nes ist nervig zu tun, Ich wurde geboren und unterwerfe es ihm, aber sie. Magfini,\nFehlermeldung."
+    },
+    "read-more-button": "Mehr lesen"
+  },
+
+  "footer": {
+    "logo-сolumn": {
+      "adress": "Dhaka, Bangladesch",
+      "number": "0943833399",
+      "email": "support@zone.com"
+    },
+    "service-сolumn": {
+      "service": "Service",
+      "order-management": "Auftragsmanagement",
+      "social-assistant": "Sozialassistentin",
+      "crypto-platform": "Krypto-Plattform",
+      "analyzer": "Analysator"
+    },
+    "company-сolumn": {
+      "company": "Unternehmen",
+      "about-us": "Über uns",
+      "news": "News",
+      "our-partner": "Unser zuverlässiger Partner",
+      "faq": "FAQ für neue Benutzer"
+    },
+    "supports-column": {
+      "supports": "Unterstützung",
+      "help-center": "Hilfe-Center",
+      "feedback": "Rückmeldungen",
+      "contact-us": "Kontaktieren Sie uns",
+      "terms": "Allgemeine"
+    },
+    "resources-column": {
+      "resources": "Ressourcen",
+      "download-app": "App herunterladen",
+      "blog": "Blog",
+      "whats-new": "Was gibt's Neues",
+      "sitemap": "Sitemap"
+    },
+    "reserved-line": {
+      "reserved-text": "© 2021 Bereich. - Alle Rechte vorbehalten.",
+      "language": "Sprachlich: ",
+      "privacy": "Datenschutz",
+      "security": "Sicherheit",
+      "terms": "Terms"
+    }
+  },
+
+  "enter-modal": {
+    "log-in": "Sign up über soziale Netzwerke anmelden",
+    "sign-in": "Login über soziale Netzwerke",
+    "via-email": "oder per E-Mail",
+    "your-name": "Ihr Name",
+    "email-adress": "Ihre E-Mail-Adresse",
+    "password": "Passwort",
+    "have-account-log-in": "Haben Sie ein Konto? anmelden",
+    "have-account-sign-in": "Haben Sie kein Konto? anmelden",
+    "cancel-button": "Stornieren",
+    "sign-in-button": "Anmelden",
+    "log-in-button": "Anmelden"
+  },
+
+  "our-team": {
+    "title": "Lerne unser Team kennen",
+    "subtitle": "Lorem ipsum Karotten, ökologische Tomatensuppe. Aber wer\n\nschicht nur, um über die Spieler einen strategischen Vorteil zu navigieren.",
+    "box-one": {
+      "title": "Sunny Khan",
+      "content": "Vorstandsvorsitzende"
+    },
+    "box-two": {
+      "title": "Alina Jesia",
+      "content": "UX/UI-DESIGNER"
+    },
+    "box-three": {
+      "title": "Alex Sohag",
+      "content": "GESCHÄFTSENTWICKLUNG"
+    },
+    "box-four": {
+      "title": "Afroza Mou",
+      "content": "LEITUNG MARKETING"
+    }
+  },
+
+  "services": {
+    "title": "Unsere Dienstleistungen",
+    "subtitle": "Wir verwandeln Informationen in umsetzbare Erkenntnisse Wir arbeiten daran, Ihre Probleme zu verstehen\nund werden angetrieben, bessere Fragen zu stellen, um Arbeit zu machen.",
+    "box-one": {
+      "title": "Management",
+      "content": "Lorem ipsum Karotten, verbessert\ndas Überwachungsprogramm. Aber nur eine Schicht\nWie über die Spieler einen strategischen Vorteil zu navigieren."
+    },
+    "box-two": {
+      "title": "Sozialassistentin",
+      "content": "Lorem ipsum Karotten, verbessert\ndas Überwachungsprogramm. Aber nur eine Schicht\nWie über die Spieler einen strategischen Vorteil zu navigieren."
+    },
+    "box-three": {
+      "title": "Krypto-Plattform",
+      "content": "Lorem ipsum Karotten, verbessert\ndas Überwachungsprogramm. Aber nur eine Schicht\nWie über die Spieler einen strategischen Vorteil zu navigieren."
+    },
+    "box-four": {
+      "title": "Intelligente Handelsmodule",
+      "content": "Lorem ipsum Karotten, verbessert\ndas Überwachungsprogramm. Aber nur eine Schicht\nWie über die Spieler einen strategischen Vorteil zu navigieren."
+    },
+    "box-five": {
+      "title": "Analysator der Nachrichten",
+      "content": "Lorem ipsum Karotten, verbessert\ndas Überwachungsprogramm. Aber nur eine Schicht\nWie über die Spieler einen strategischen Vorteil zu navigieren."
+    },
+    "box-six": {
+      "title": "Modul der Preisbenachrichtigung",
+      "content": "Lorem ipsum Karotten, verbessert\ndas Überwachungsprogramm. Aber nur eine Schicht\nWie über die Spieler einen strategischen Vorteil zu navigieren."
+    },
+    "learn-button": "Mehr erfahren →"
+  },
+
+  "about-page": {
+    "title": "Wer sind wir?",
+    "subtitle": "Wir haben über 15 Jahre Erfahrung in der Unternehmensberatung.\nWir haben über 15 Jahre Erfahrung in der Unternehmensberatung\narena und künstliche Intelligenz.",
+    "read-more-button": "Mehr lesen",
+    "boxes-title": "Traf unser Team",
+    "boxes-subtitle": "Lorem ipsum Karotten, ökologische Tomatensuppe. Aber wer\nschicht nur, um über die Spieler einen strategischen Vorteil zu navigieren.",
+    "box-one": {
+      "name": "Sunny Khan",
+      "role": "Vorstandsvorsitzende",
+      "content": "Lorem ipsum Karotten, ökologische Tomatensuppe. Jetzt\ntellus dolor, tempor eine reine, aber investieren Sie die Menüleiste. Ganzzahl\nschöne asiatische Farbe, Plastiktüten und Süßigkeiten an."
+    },
+    "box-two": {
+      "name": "Alina Jesia",
+      "role": "UX/UI DESIGNER",
+      "content": "Lorem ipsum Karotten, ökologische Tomatensuppe. Jetzt\ntellus dolor, tempor eine reine, aber investieren Sie die Menüleiste. Ganzzahl\nschöne asiatische Farbe, Plastiktüten und Süßigkeiten an."
+    },
+    "box-three": {
+      "name": "Alex Sohag",
+      "role": "GESCHÄFTSENTWICKLUNG",
+      "content": "Lorem ipsum Karotten, ökologische Tomatensuppe. Jetzt\ntellus dolor, tempor eine reine, aber investieren Sie die Menüleiste. Ganzzahl\nschöne asiatische Farbe, Plastiktüten und Süßigkeiten an."
+    },
+    "box-four": {
+      "name": "Afroza Mou",
+      "role": "LEITUNG MARKETING",
+      "content": "Lorem ipsum Karotten, ökologische Tomatensuppe. Jetzt\ntellus dolor, tempor eine reine, aber investieren Sie die Menüleiste. Ganzzahl\nschöne asiatische Farbe, Plastiktüten und Süßigkeiten an."
+    },
+    "bottom-title": "Wir führen alle Projekte durch\nextra Sorgfalt als Kundenbedarf",
+    "bottom-content": "Lorem ipsum Karotten, ökologische Tomatensuppe. Nun sagen Sie uns, jedes Mal, wenn ein okay, aber investiere die Menüleiste. Integer tincidunt metus, ein Kunststoff augue tempor bei. Jedes Tor jetzt und Zeitplan dynamisch elektrisch oder keramisch. Adminbereich android Dateien speichern. Maecenas bei Fahrzeugen Dating, Es ist Einwanderungspolitik. Chat-Einstellungen an der Proteinpumpe. Keine Leckereien und weder die Pumpe, kein Make-up außerBesucher. Live online ipad oder elektrisch. Phasellus auf Ihrem Computer, es sei denn, oderreine Immobilien oder Getränkehändler. Antwort abbrechen. Massageno ac ist die offizielle Website von Antioxidantien eines EU-Herstellers. Auch der Preis des Armutsproblems. Kinder brauchen den Tastaturgriff."
+  }
+}
+

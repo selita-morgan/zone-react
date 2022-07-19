@@ -1,0 +1,69 @@
+/* ----------------------------------          OUR  TEAM      -----------------------------------*/
+
+.our-team {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+.our-team-text__title {
+  margin-top: 10px;
+  margin-bottom: 50px;
+  width: 700px;
+  height: 55px;
+  font-family: "Droid Sans Mono", sans-serif;
+  color: #ffffff;
+  font-size: 50px;
+}
+
+.our-team-text__subtitle {
+  margin-bottom: 15px;
+  width: 700px;
+  height: 55px;
+  font-family: "Droid Sans Mono", sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+}
+
+.our-team-box {
+  width: 90%;
+  justify-content: center;
+  display: inline-flex;
+  flex-wrap: wrap;
+
+  .person {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    font-family: "Droid Sans Mono", sans-serif;
+    font-size: 18px;
+    color: #ffffff;
+    border: 2px solid #1f2e4b;
+    border-radius: 20px;
+    margin: 2% 2%;
+    width: 270px;
+    height: 266px;
+    box-shadow: 3px 3px 25px 2px rgb(20, 33, 69);
+  }
+
+  .person h3 {
+    font-size: 30px;
+    margin-top: -30px;
+  }
+
+  .person p {
+    margin-top: -15px;
+    margin-bottom: -30px;
+  }
+
+  #person {
+    margin-top: 30%;
+    color: #ffffff;
+    text-decoration: none;
+  }
+}

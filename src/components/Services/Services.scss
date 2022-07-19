@@ -1,0 +1,93 @@
+/* ----------------------------------          SERVICES          -----------------------------------*/
+
+div .service {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  margin-bottom: 50px;
+}
+
+.service-box {
+  justify-content: center;
+  display: inline-flex;
+  flex-wrap: wrap;
+}
+
+.service-text__title {
+  margin-top: 10px;
+  margin-bottom: 50px;
+  width: 700px;
+  height: 55px;
+  text-align: center;
+  font-family: "Droid Sans Mono", sans-serif;
+  font-size: 50px;
+  color: #ffffff;
+}
+
+.service-text__subtitle {
+  width: 700px;
+  height: 55px;
+  margin-bottom: 15px;
+  text-align: center;
+  font-family: "Droid Sans Mono", sans-serif;
+  font-size: 20px;
+  color: #ffffff;
+}
+
+.service-box {
+  .OrderManagementBox,
+  .SocialAssistantBox,
+  .CryptoPlatformBox,
+  .SmartTradingModulesBox,
+  .AnalyzeroftheNewsBox,
+  .ModuleofPriceNotificationBox {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    font-family: "Droid Sans Mono", sans-serif;
+    font-size: 18px;
+    text-align: center;
+    color: #ffffff;
+    border: 2px solid #1f2e4b;
+    border-radius: 20px;
+    margin: 2%;
+    padding: 1% 1%;
+    width: 370px;
+    height: 370px;
+    box-shadow: 3px 3px 25px 2px rgb(20, 33, 69);
+    transition: 1s;
+  }
+
+  .OrderManagementBox img,
+  .SocialAssistantBox img,
+  .CryptoPlatformBox img,
+  .SmartTradingModulesBox img,
+  .AnalyzeroftheNewsBox img,
+  .ModuleofPriceNotificationBox img {
+    margin-top: 5%;
+    border-radius: 50px;
+    box-shadow: 3px 3px 25px 2px rgb(25, 39, 82);
+  }
+
+  .OrderManagementBox:hover,
+  .SocialAssistantBox:hover,
+  .CryptoPlatformBox:hover,
+  .SmartTradingModulesBox:hover,
+  .AnalyzeroftheNewsBox:hover,
+  .ModuleofPriceNotificationBox:hover {
+    transform: scale(1.02); /* Увеличиваем масштаб */
+  }
+
+  #OrderManagementBox,
+  #SocialAssistantBox,
+  #CryptoPlatformBox,
+  #SmartTradingModulesBox,
+  #AnalyzeroftheNewsBox,
+  #ModuleofPriceNotificationBox {
+    color: #ffffff;
+    text-decoration: none;
+  }
+}

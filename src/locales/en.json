@@ -1,0 +1,177 @@
+{
+  "nav-menu":{
+    "nav1": "Home",
+    "nav2": "About Us",
+    "nav3": "StarWars",
+    "nav4": "Pricing",
+    "nav5": "Blog",
+    "nav6": "Sign Up"
+  },
+
+  "landing": {
+    "title": "Virtual Reality\nBusiness Solutions",
+    "subtitle": "We have over 15 year exprience in business consultting arena. We have over\n15 year exprience in business consultting arena and artficial intelligence.",
+    "join-button": "Join Us",
+    "watch-button": "Watch video"
+  },
+
+  "email-form": {
+    "title": "Subscribe to get the Latest News",
+    "subtitle": "We recommended you to subscribe to our newspaper,drop your email below to get daily update about us",
+    "email-area": "Enter your email adress",
+    "email-submit": "Send Email"
+  },
+
+  "features": {
+    "block-one": {
+      "title": "We complete every projects\nextra care as customer need",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at dictum risus,\nnon suscipit arcu. Quisque aliquam posuere tortor, sit amet convallis nuncoe\nscelerisque in. orem ipsum dolor sit amet, consectetur adipisicing elit. Labore\neius molestiae facere, natus reprehenderit eaque eum, autem ipsam. Magfini,\nerror. Tempora odit laborum iure inventore possimus laboriosam qui nam."
+    },
+    "block-two": {
+      "title": "We complete every projects\nextra care as customer need",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at dictum risus,\nnon suscipit arcu. Quisque aliquam posuere tortor, sit amet convallis nuncoe\nscelerisque in. orem ipsum dolor sit amet, consectetur adipisicing elit. Labore\neius molestiae facere, natus reprehenderit eaque eum, autem ipsam. Magfini,\nerror. Tempora odit laborum iure inventore possimus laboriosam qui nam."
+    },
+    "read-more-button": "Read more"
+  },
+
+  "footer": {
+    "logo-сolumn": {
+      "adress": "Dhaka, Bangladesh",
+      "number": "0943833399",
+      "email": "support@zone.com"
+    },
+    "service-сolumn": {
+      "service": "Service",
+      "order-management": "Order Management",
+      "social-assistant": "Social Assistant",
+      "crypto-platform": "Crypto Platform",
+      "analyzer": "Analyzer of the News"
+    },
+    "company-сolumn": {
+      "company": "Company",
+      "about-us": "About Us",
+      "news": "News",
+      "our-partner": "Our trusted partner",
+      "faq": "New users FAQ"
+    },
+    "supports-column": {
+      "supports": "Supports",
+      "help-center": "Help center",
+      "feedback": "Feedbcak",
+      "contact-us": "Contact us",
+      "terms": "Terms conditins"
+    },
+    "resources-column": {
+      "resources": "Resources",
+      "download-app": "Download app",
+      "blog": "Blog",
+      "whats-new": "What’s new",
+      "sitemap": "Sitemap"
+    },
+    "reserved-line": {
+      "reserved-text": "© 2021 Zone. - All rights reserved.",
+      "language": "Language: ",
+      "privacy": "Privacy",
+      "security": "Security",
+      "terms": "Terms"
+    }
+  },
+
+  "enter-modal": {
+    "log-in": "Log In via social",
+    "sign-in": "Sign Up via social",
+    "via-email": "or with email",
+    "your-name": "Your name",
+    "email-adress": "Your email adress",
+    "password": "Password",
+    "have-account-log-in": "Have an account? Log In",
+    "have-account-sign-in": "Have no account? Sign In",
+    "cancel-button": "Cancel",
+    "sign-in-button": "Sign Up",
+    "log-in-button": "Log In"
+  },
+
+  "our-team": {
+    "title": "Met Our Team",
+    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis \n accumsan nisi Ut ut felis congue nisl hendrerit commodo.",
+    "box-one": {
+      "title": "Sunny Khan",
+      "content": "Executive officer"
+    },
+    "box-two": {
+      "title": "Alina Jesia",
+      "content": "UX/UI DESIGNER"
+    },
+    "box-three": {
+      "title": "Alex Sohag",
+      "content": "BUSINESS DEVELOPMENT"
+    },
+    "box-four": {
+      "title": "Afroza Mou",
+      "content": "HEAD OF MARKETING"
+    }
+  },
+
+  "services": {
+    "title": "Our Services",
+    "subtitle": "We turn information into actionable insights We work to understand your issues\nand are driven to ask better questions in the pursuit of making work.",
+    "box-one": {
+      "title": "Management",
+      "content": "Lorem ipsum dolor sit amet, consectetur\nthe adipiscing elit. Sed quis accumsan nisi\nUt ut felis congue nisl hendrerit commodo."
+    },
+    "box-two": {
+      "title": "Social Assistant",
+      "content": "Lorem ipsum dolor sit amet, consectetur\nthe adipiscing elit. Sed quis accumsan nisi\nUt ut felis congue nisl hendrerit commodo."
+    },
+    "box-three": {
+      "title": "Crypto Platform",
+      "content": "Lorem ipsum dolor sit amet, consectetur\nthe adipiscing elit. Sed quis accumsan nisi\nUt ut felis congue nisl hendrerit commodo."
+    },
+    "box-four": {
+      "title": "Smart Trading Modules",
+      "content": "Lorem ipsum dolor sit amet, consectetur\nthe adipiscing elit. Sed quis accumsan nisi\nUt ut felis congue nisl hendrerit commodo."
+    },
+    "box-five": {
+      "title": "Analyzer of the News",
+      "content": "Lorem ipsum dolor sit amet, consectetur\nthe adipiscing elit. Sed quis accumsan nisi\nUt ut felis congue nisl hendrerit commodo."
+    },
+    "box-six": {
+      "title": "Module of Price Notification",
+      "content": "Lorem ipsum dolor sit amet, consectetur\nthe adipiscing elit. Sed quis accumsan nisi\nUt ut felis congue nisl hendrerit commodo."
+    },
+    "learn-button": "Learn more →"
+  },
+
+  "about-page": {
+    "title": "Who we are?",
+    "subtitle": "We have over 15 year exprience in business consultting arena. \n We have over 15 year exprience in business consultting \n arena and artficial intelligence.",
+    "read-more-button": "Read more",
+    "boxes-title": "Met Our Team",
+    "boxes-subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis \naccumsan nisi Ut ut felis congue nisl hendrerit commodo.",
+    "box-one": {
+      "name": "Sunny Khan",
+      "role": "Executive officer",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc\ndolor tellus, tempor a purus sed, placerat dapibus augue. Integer\ntincidunt metus dolor, quis dignissim augue tempor at."
+    },
+    "box-two": {
+      "name": "Alina Jesia",
+      "role": "UX/UI DESIGNER",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc\ndolor tellus, tempor a purus sed, placerat dapibus augue. Integer\ntincidunt metus dolor, quis dignissim augue tempor at."
+
+    },
+    "box-three": {
+      "name": "Alex Sohag",
+      "role": "BUSINESS DEVELOPMENT",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc\ndolor tellus, tempor a purus sed, placerat dapibus augue. Integer\ntincidunt metus dolor, quis dignissim augue tempor at."
+
+    },
+    "box-four": {
+      "name": "Afroza Mou",
+      "role": "HEAD OF MARKETING",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc\ndolor tellus, tempor a purus sed, placerat dapibus augue. Integer\ntincidunt metus dolor, quis dignissim augue tempor at."
+    },
+    "bottom-title": "We complete every projects\nextra care as customer need",
+    "bottom-content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc dolor tellus, tempor a\npurus sed, placerat dapibus augue. Integer tincidunt metus dolor, quis dignissim\naugue tempor at. Quisque porta nunc et arcu suscipit ultrices in nec tellus. Fusce\ntincidunt nisi purus. Maecenas at vehicula turpis, id pharetra eros. Curabitur venenatis\nipsum at dapibus laoreet. Integer suscipit lacus ac neque laoreet, non rutrum nisi\nsagittis. Vivamus consectetur sit amet leo vel ultrices. Phasellus ornare nisi nec\npurus mattis, vel bibendum ligula venenatis. Aliquam erat volutpat. Suspendisse sit\namet nulla ac est rutrum facilisis quis eu tortor. Etiam pretium egestas consequat.\nVestibulum egestas tincidunt iaculis."
+  }
+}
+

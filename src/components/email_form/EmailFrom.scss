@@ -1,0 +1,124 @@
+/* ------------------------     EMAIL FROM      ---------------------- */
+
+
+div .subscribtion-form {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 500px;
+}
+
+.subscribtion-form-box {
+  text-align: center;
+  font-family: "Droid Sans Mono", sans-serif;
+  font-size: 18px;
+  color: #FFFFFF;
+  border: 2px solid #243557;
+  border-radius: 20px;
+  padding-top: 50px;
+  margin: 2% 2%;
+  width: 1252px;
+  height: 250px;
+  box-shadow: 3px 3px 25px 2px rgb(20, 33, 69);
+}
+
+.subscribtion-form-box .subscribtion-form-text__title {
+  margin-top: 100px;
+  margin-bottom: 50px;
+  width: 750px;
+  height: 55px;
+  color: #FFFFFF;
+  font-family: "Droid Sans Mono", sans-serif;
+  line-height: 50px;
+  font-size: 50px;
+}
+
+.subscribtion-form-text__subtitle {
+  line-height: 70px;
+  margin-bottom: 15px;
+  width: 1000px;
+  height: 55px;
+  font-family: "Droid Sans Mono", sans-serif;
+  color: #FFFFFF;
+  font-size: 17px;
+}
+
+.email-form {
+  display: flex;
+  flex-direction: row;
+  font-family: "Droid Sans Mono", sans-serif;
+  font-size: 18px;
+  color: #000000;
+  border: 2px solid #243557;
+  background: transparent;
+  border-radius: 30px;
+  width: 70%;
+  height: 65px;
+  margin-top: 10px;
+  margin-left: 190px;
+}
+
+
+.email-form input[type=text],
+.email-form input[type=text]:hover,
+.email-form input[type=text]:focus {
+  border: none !important;
+  outline: none !important;
+  width: 90%;
+  height: 65px;
+  margin-left: 25px;
+  background-color: rgba(0, 0, 0, 0);
+  font-size: 20px;
+  font-family: "Droid Sans Mono", sans-serif;
+  color: #FFFFFF;
+}
+
+.email-form input[type=submit] {
+  background: linear-gradient(90deg, #2c5ddb, #7452dd);
+  font-family: "Droid Sans Mono", sans-serif;
+  font-size: 20px;
+  color: #FFFFFF;
+  border: 0 solid transparent;
+  border-radius: 30px;
+  margin: 2% 1%;
+  width: 175px;
+  height: 50px;
+  margin-top: 7px;
+  margin-left: 1px;
+  transition: all 1250ms cubic-bezier(0.19, 1, 0.22, 1);
+  box-shadow: inset 0 0 20px rgba(255, 255, 255, 0);
+  outline: 1px solid linear-gradient(-240deg, #2962eb, #7c54ec);
+  outline-offset: 0px;
+  text-shadow: none;
+  transition: all 1250ms cubic-bezier(0.19, 1, 0.22, 1);
+}
+
+.email-form input[type=submit]:hover {
+  border: 1px solid;
+  box-shadow: inset 0 0 20px rgba(36, 51, 241, 0.29), 0 0 20px rgba(58, 65, 222, 0.91);
+  outline: 1px solid;
+  outline-color: rgba(255, 255, 255, 0);
+  outline-offset: 5px;
+  text-shadow: 1px 1px 2px #000000;
+}
+
+.email-form {
+  input:-webkit-autofill,
+  input:-webkit-autofill:hover,
+  input:-webkit-autofill:focus
+  input:-webkit-autofill,
+  textarea:-webkit-autofill,
+  textarea:-webkit-autofill:hover
+  textarea:-webkit-autofill:focus,
+  select:-webkit-autofill,
+  select:-webkit-autofill:hover,
+  select:-webkit-autofill:focus {
+    border: 0;
+    -webkit-text-fill-color: #ccc;
+    -webkit-box-shadow: 0 0 0px 1000px transparent inset;
+    transition: background-color 5000s ease-in-out 0s;
+    background: -webkit-linear-gradient(top, rgba(255, 255, 255, 0) 0%, rgba(0, 174, 255, 0.04) 50%, rgba(255, 255, 255, 0) 51%, rgba(0, 174, 255, 0.03) 100%);
+  }
+}

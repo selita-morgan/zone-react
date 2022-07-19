@@ -1,0 +1,79 @@
+/* ----------------------------------          landing-content         -----------------------------------*/
+
+div .landing-content {
+  width: 100%;
+  display: inline-flex;
+  justify-content: center;
+  height: 750px;
+}
+
+.landing-text {
+  margin-top: 100px;
+  margin-right: 150px;
+  height: 500px;
+  width: 500px;
+}
+
+.landing__title {
+  font-family: "Droid Sans Mono", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  text-align: left;
+  background: linear-gradient(145deg, #2d61ea 33%, #b528d0 66%, #e761ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  width: 600px;
+}
+
+div .landing__subtitle {
+  margin-top: 10px;
+  text-align: left;
+  height: 59px;
+  width: 534px;
+  line-height: 25px;
+  font-family: "Droid Sans Mono", sans-serif;
+  font-size: 15px;
+  color: #ffffff;
+}
+
+.lanidng__buttons {
+  margin-top: 40px;
+  text-decoration: none;
+  text-align: left;
+  height: 59px;
+  width: 534px;
+  line-height: 25px;
+  font-family: "Droid Sans Mono", sans-serif;
+}
+
+#JoinUs {
+  background: linear-gradient(-240deg, #2962eb, #7c54ec);
+  border-radius: 7px;
+  font-size: 20px;
+  padding: 25px 55px;
+  text-align: left;
+  height: 100px;
+  width: 100px;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+#WatchVideo {
+  background-image: url("../../img/playIcon.svg");
+  background-repeat: no-repeat;
+  background-position: left;
+  padding: 10px 45px;
+  text-align: left;
+  margin-left: 50px;
+  font-size: 20px;
+  height: 100px;
+  width: 100px;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.landing-content .hero img {
+  height: 555px;
+  width: 555px;
+  margin-right: 45px;
+}
